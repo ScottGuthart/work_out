@@ -12,7 +12,7 @@ development:
   database: work_out_development
   pool: 5
   username: root
-  password:root
+  password: root
   socket: /opt/local/var/run/mysql5/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and
